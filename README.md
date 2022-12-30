@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moontemplar212
 - 👀 I’m interested in good quality code!
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on github 😁
 
